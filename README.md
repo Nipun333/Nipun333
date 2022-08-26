@@ -1,10 +1,10 @@
-<h1 align="center">Hey there 👋 It's me, Sadman Salim Nipun</h1>
+<h2 align="center">Hey there 👋 It's me, Sadman Salim Nipun</h2>
 <br/>
-<h3 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h3>
+<h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun333&label=Profile%20Views&color=1f9eff&style=flat" alt="nipun333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipun333" alt="nipun333" /></a> </p>
+<p align="left"> <a href="https://github.com/nipun333/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipun333" alt="nipun333" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Flutter, Competitive Programming, Software development**
 
@@ -18,12 +18,12 @@
 
 - ⚡ Fun fact- *Family oriented, Fitness freak and Travel lover.*
 
-### Latest Blogs posts
+#### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect With Me:</h3>
+<h4 align="left">Connect With Me:</h4>
 <p align="left">
 <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nipun333" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a>
@@ -32,14 +32,14 @@
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;  
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> &nbsp; 
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp; 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> &nbsp;
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipun333&show_icons=true&theme=dark&locale=en&layout=compact" alt="nipun333" /></p>
@@ -51,5 +51,5 @@
 
 > Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >
-> Written by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
+> Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
  

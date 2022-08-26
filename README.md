@@ -41,7 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&locale=en" alt="nipun333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p>
+<BR/><BR/>
 
-/* Copyright (C) 2021-2022, All Rights Reserved
- * Written by Sadman Salim Nipun <sadmannipun@gmail.com>, September 2022
- */
+> Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
+>
+> Written by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
+ 

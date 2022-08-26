@@ -2,19 +2,18 @@
 <br/>
 <h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun333&label=Profile%20Views&color=1f9eff&style=flat" alt="nipun333" /> </p>
 
-<p align="left"> <a href="https://github.com/nipun333/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipun333" alt="nipun333" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Python, Flutter, Competitive Programming, Software development**
+- 🌱 Currently learning **Python, Flutter, Competitive Programming, Software development**
 
-- 👯 I’m looking to collaborate on *Computer Science & Engineering research*
+- 👯 Looking to collaborate on *Computer Science & Engineering research*, *Software Engineering project*
 
 - 📝 Write articles regularly on [www.dev.to/nipun333](www.dev.to/nipun333)
 
 - 💬 Ping me about **Algorithm, Data Structure, Object Oriented Programming, Object Oriented Analysis & Design, Computation**
 
-- 📫 Reach me *sadmannipun@gmail.com*
+- 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - ⚡ Fun fact- *Family oriented, Fitness freak and Travel lover.*
 

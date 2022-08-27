@@ -17,7 +17,7 @@
 
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
-- ⚡ Fun fact- *Family oriented, Fitness freak and Travel lover.* 
+- 😃 Fun fact- *Family oriented, Fitness freak and Travel lover.* 
 <br/>
 
 <h4 align="left"> &nbsp; Languages and Tools:</h4>

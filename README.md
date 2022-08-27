@@ -3,7 +3,7 @@
 <h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌍 I'm mostly active within the **Developers Community**
 
@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact- *Family oriented, Fitness freak and Travel lover.* 
 <br/>
+
 <h4 align="left"> &nbsp; Languages and Tools:</h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> &nbsp;  
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> &nbsp;
@@ -32,22 +33,23 @@
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &nbsp; &nbsp;
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
   <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p>
-       </p>
-   
-<b>&#128200; Competitive Programming</b>
+       </p><br/>
+ 
+#### &nbsp; &#128200; Competitive Programming
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/nipun333?theme=light&font=Karma&ext=contest" />
-</p>
+<img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=light&font=Karma&ext=contest" />
+</p><br/>
 
- #### Latest Blogs posts
+ #### &nbsp; Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->
+<br/>
 
-<h4 align="left">Connect With Me:</h4>
-<p align="left">
+#### &nbsp; Connect With Me:
+<p align="left"> &nbsp;
 <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
@@ -55,9 +57,9 @@
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>
 
-<BR/><BR/>
+<br/><br/><br/>
 
-> Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
+>Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >
-> Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
+>Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
  

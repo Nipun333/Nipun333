@@ -1,5 +1,5 @@
 <br/>
-<p align="center"> <b>Hey there 👋 It's me, Sadman Salim Nipun<b/> <p/>
+<h2 align="center"> Hey there 👋 It's me, Sadman Salim Nipun <h2/>
 <h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
 

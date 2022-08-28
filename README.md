@@ -51,9 +51,9 @@
 
 #### &nbsp; Connect With Me:
 <p align="left"> &nbsp;
-<a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> &nbsp;
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>

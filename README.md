@@ -39,7 +39,7 @@
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-<img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=light&font=Karma&ext=contest" />
+<img height="270em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=wtf&font=Wellfleet&ext=contest" />
 
 ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)

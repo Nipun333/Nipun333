@@ -6,6 +6,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌍 I'm mostly active within the **Developers Community**
+ 
+- 🔥 Interested in **Software Developement** and **Web development**
 
 - 🌱 Currently learning **Python, Flutter, Competitive Programming, Software development**
 
@@ -17,7 +19,7 @@
 
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
-- 😃 Fun fact- *Family oriented, Fitness freak and Travel lover.* 
+- 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.* 
 <br/>
 
 <h4 align="left"> &nbsp; Languages and Tools:</h4>

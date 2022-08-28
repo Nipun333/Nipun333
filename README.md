@@ -40,8 +40,7 @@
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
 <img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Wellfleet&ext=contest" />
-<img height="270em" src="https://raw.githubusercontent.com/nipun333/cf-stats/main/output/light_card.svg" />
-
+<img height="270em" src="https://raw.githubusercontent.com/Nipun333/cf_stats/main/output/light_card.svg" />
 </p><br/>
 
  #### &nbsp; Latest Blogs posts

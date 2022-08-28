@@ -34,15 +34,15 @@
 
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &nbsp; &nbsp;
+  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&theme=light" /> &nbsp; &nbsp;
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
   <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p>
        </p><br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-<img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Wellfleet&ext=contest" />
-<img height="270em" src="https://raw.githubusercontent.com/Nipun333/cf_stats/main/output/light_card.svg" />
+&nbsp; <img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Wellfleet&ext=contest" />
+<img height="270em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
 </p><br/>
 
  #### &nbsp; Latest Blogs posts

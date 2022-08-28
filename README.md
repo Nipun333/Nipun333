@@ -40,10 +40,9 @@
 
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&theme=light" /> &nbsp; &nbsp;
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p>
-       </p><br/>
+  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light" /> &nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">

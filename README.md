@@ -45,7 +45,7 @@
 <img height="270em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
 </p><br/>
 
- #### &nbsp; Latest Blogs posts
+ #### &nbsp;&#9749; Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->

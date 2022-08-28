@@ -1,5 +1,11 @@
 <br/>
 <h2 align="center"> Hey there 👋 It's me, Sadman Salim Nipun <h2/>
+ 
+ <p align="center"> <a href="https://github.com/nipun333/">
+    <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;
+  <a href="https://github.com/nipun333?tab=followers">
+   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=green&logo=github">
+  </a><p/>
 <h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
 

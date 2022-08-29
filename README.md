@@ -1,5 +1,5 @@
 <br/>
-<h2 align="center"> Hey there<img src="https://media1.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="10%">It's me, Sadman Salim Nipun <h2/>
+<h2 align="center"> Hey there 👋 It's me, Sadman Salim Nipun <h2/>
  
  <p align="center"> <a href="https://github.com/nipun333/">
     <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;

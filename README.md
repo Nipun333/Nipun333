@@ -10,8 +10,9 @@
 <h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=default)](https://github.com/ryo-ma/github-profile-trophy)  
+&nbsp; 
+ 
 - 🌍 I'm mostly active within the **Developers Community**
  
 - 🔥 Interested in **Software Developement** and **Web development**
@@ -26,11 +27,11 @@
 
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
-- 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.* 
+- 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
 <br/>
 
-<h4 align="left"> &nbsp; Languages and Tools:</h4>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> &nbsp;  
+<h4 align="left"> &nbsp; ⚙️Languages and Tools:</h4>
+<p align="left"> &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> &nbsp;  
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="30"/> </a> &nbsp; 
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="30"/> </a> &nbsp; 
@@ -41,9 +42,9 @@
 
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
+  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=default" alt="nipun333" /></p> <br/>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=wtf" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
@@ -57,8 +58,8 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
-#### &nbsp; Connect With Me:
-<p align="left"> &nbsp;
+#### &nbsp; 🚀 Connect With Me:
+<p align="left"> &nbsp;&nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;

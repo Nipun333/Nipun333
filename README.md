@@ -28,7 +28,7 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
-&nbsp;&nbsp;<img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="368" height="190" />
+ <img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="360" height="188" />
 <br/> 
 
 <h4 align="left"> &nbsp; ⚙️Languages and Tools:</h4>
@@ -43,23 +43,26 @@
 
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&theme=wtf" alt="nipun333" /></p> <br/>
+  &nbsp; <img height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p> <br/>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=wtf" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-&nbsp; <img height="270em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" />
-<img height="270em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
-</p><br/>
+&nbsp; <img width="550" height="265em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" /> &nbsp;&nbsp;
+<img width="400" height="265em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
+</p>
+  <img align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true" width="300" height="290" />
 
  #### &nbsp;&#9749; Latest Blogs posts
-<!-- BLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:START -->
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->
 <br/>
+ 
 
 #### &nbsp; 🚀 Connect With Me:
+  
 <p align="left"> &nbsp;&nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
@@ -67,9 +70,11 @@
  <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> &nbsp;
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>
-
-<br/><br/><br/> <img align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true" width="360" height="190" /> 
+<br/> 
 <br/>
+<br/> 
+<br/> 
+ 
 >Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >
 >Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.

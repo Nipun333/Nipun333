@@ -1,5 +1,5 @@
 <br/>
-<h2 align="center"> Hey there 👋 It's me, Sadman Salim Nipun <h2/>
+<h2 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> It's me, Sadman Salim Nipun <h2/>
  
  <p align="center"> <a href="https://github.com/nipun333/">
     <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;
@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&theme=default)](https://github.com/ryo-ma/github-profile-trophy)  
 &nbsp; 
- 
+
 - 🌍 I'm mostly active within the **Developers Community**
  
 - 🔥 Interested in **Software Developement** and **Web development**
@@ -28,7 +28,8 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
-<br/>
+&nbsp;&nbsp;<img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="368" height="190" />
+<br/> 
 
 <h4 align="left"> &nbsp; ⚙️Languages and Tools:</h4>
 <p align="left"> &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> &nbsp;  

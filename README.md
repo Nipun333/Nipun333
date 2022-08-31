@@ -1,5 +1,5 @@
 <br/>
-<h2 align="center"> Hey there 🙋‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> It's me, Sadman Salim Nipun <h2/>
+<h2 align="center"> Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="33px"> It's me, Sadman Salim Nipun <h2/>
 
  <p align="center"> <a href="https://github.com/nipun333/">
     <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;
@@ -28,7 +28,7 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
- <img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="360" height="188" />
+ <img alt="Coder gif" align="right" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="360" height="188" />
 <br/> 
 
 <h4 align="left"> &nbsp; ⚙️Languages and Tools:</h4>
@@ -49,10 +49,10 @@
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-&nbsp; <img width="550" height="265em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" /> &nbsp;&nbsp;
+&nbsp; <img width="520" height="265em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" /> &nbsp;&nbsp;
 <img width="400" height="265em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
 </p>
-  <img align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true" width="300" height="290" />
+  <img align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="300" height="250" />
 
  #### &nbsp;&#9749; Latest Blogs posts
  <!-- BLOG-POST-LIST:START -->

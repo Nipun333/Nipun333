@@ -68,8 +68,8 @@
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>
 
-<br/><br/><br/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
-
+<br/><br/><br/> <img align="right" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="368" height="190" /> 
+<br/>
 >Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >
 >Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.

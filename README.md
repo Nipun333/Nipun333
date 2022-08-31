@@ -1,6 +1,6 @@
 <br/>
 <h2 align="center"> Hey there 🙋‍♂️ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> It's me, Sadman Salim Nipun <h2/>
- 
+
  <p align="center"> <a href="https://github.com/nipun333/">
     <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;
     
@@ -68,7 +68,7 @@
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
 </p>
 
-<br/><br/><br/>
+<br/><br/><br/> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 >Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >

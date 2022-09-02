@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Damian;Ex-Cadet;Amature+Programmer;Passionate+Engineer;Ambitious;Researcher)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&align=center&size=25&lines=Damian;Ex-Cadet;Amature+Programmer;Passionate+Engineer;Ambitious;Researcher)
  <p align="center"> <a href="https://github.com/nipun333/">
  <img src="https://komarev.com/ghpvc/?username=nipun333" alt="Visitors" /> </a>&nbsp;
     

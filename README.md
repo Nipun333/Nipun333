@@ -8,7 +8,7 @@
   <a href="https://github.com/nipun333?tab=Followers">
    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=4CAF50&logo=github">
   </a><p/>
-<h4 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
+<h3 align="center">A great enthusiast to learn new stuffs and make something new, innovative and extraordinary in technology.</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=default)](https://github.com/ryo-ma/github-profile-trophy)  
 &nbsp; 

@@ -1,6 +1,7 @@
 <br/>
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=5050&pause=1230&color=FFA410FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+It's+me%2C+Sadman+Salim+Nipun;Damian%F0%9F%92%97;Ex-Cadet%F0%9F%92%82%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;Amature+Programmer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Passionate+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Researcher)](https://git.io/typing-svg) 
   
  <p align="center"> <a href="https://github.com/nipun333/">
@@ -46,7 +47,7 @@
   #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   &nbsp; <img height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p> <br/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>     </p><br/>
   <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=wtf" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming

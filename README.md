@@ -49,9 +49,9 @@
   <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
-<br/><p float="left">
-&nbsp; <img width="410" height="240em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
-<img width="405" height="240em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" />
+<p float="left">
+&nbsp; <img width="410" height="235em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
+<img width="405" height="235em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" />
 </p><br/>
 
  #### &nbsp;&#9749; Latest Blogs posts

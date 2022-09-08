@@ -52,7 +52,7 @@
 <p float="left">
 &nbsp; <img width="415" height="250em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" /> &nbsp;&nbsp;
 <img width="400" height="250em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
-</p>
+</p> <br/>
 
  #### &nbsp;&#9749; Latest Blogs posts
 <img align= "right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="295" height="286"/> 

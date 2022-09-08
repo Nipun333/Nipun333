@@ -10,7 +10,7 @@
   </a><p/>
 <h4 align="center">A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology.</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=default)](https://github.com/ryo-ma/github-profile-trophy)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)  
 &nbsp; 
 
 - 🌍 I'm mostly active within the **Developers Community**
@@ -44,9 +44,9 @@
  <br/><br/> <br/>
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img height="186em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
+  &nbsp; <img height="186em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>     </p><br/>
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=wtf" alt="nipun333" /></p> <br/>
+  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">

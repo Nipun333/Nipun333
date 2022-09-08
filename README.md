@@ -39,9 +39,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> &nbsp; 
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> &nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> </p> <br/> <br/>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> </p> <br/> <br/> 
 
-  #### &nbsp; ⚡ Github Stats:
+ <br/><br/> <br/> <br/> #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   &nbsp; <img height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>     </p><br/>

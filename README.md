@@ -28,7 +28,7 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
- <img alt="Coder gif" align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="360" height="188" />
+ <br/><img alt="Coder gif" align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="360" height="188" />
 <br/> 
 
 <h4 align="left"> &nbsp; ⚙️Languages and Tools:</h4>

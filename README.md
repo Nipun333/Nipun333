@@ -44,7 +44,7 @@
  <br/><br/> <br/>
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img height="186em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;
+  &nbsp; <img height="186em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=wtf&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>     </p><br/>
   <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=wtf" alt="nipun333" /></p> <br/>
  

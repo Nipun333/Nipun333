@@ -50,7 +50,7 @@
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-&nbsp; <img width="420" height="230em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
+&nbsp;&nbsp; <img width="420" height="230em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
 <img width="395" height="230em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" />
 </p><br/>
 

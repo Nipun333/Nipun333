@@ -52,7 +52,7 @@
 <p float="left">
 &nbsp; <img width="415" height="250em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" /> &nbsp;&nbsp;
 <img width="400" height="250em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" />
-</p> <br/>
+</p>
 
  #### &nbsp;&#9749; Latest Blogs posts
   
@@ -75,7 +75,7 @@
 <!--
  `README.md` (this file) appears on my GitHub profile.
 -->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  
 >Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
 >

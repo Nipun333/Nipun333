@@ -76,7 +76,7 @@
 -->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
  
->Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
+><b>Copyright<b/> ©2021-2022, `Nipun333`. All Rights Reserved.
 >
 >Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
  

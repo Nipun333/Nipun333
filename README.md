@@ -62,7 +62,6 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
  
-
 #### &nbsp; 🚀 Connect With Me:
   
 <p align="left"> &nbsp;&nbsp;

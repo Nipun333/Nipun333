@@ -30,7 +30,7 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
- <br/>
+ <br/><br/>
 
 <h4 align="left"> &nbsp; ⚙️Languages and Tools: <img alt="Coder gif" align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </h4> <br/> 
 
@@ -59,7 +59,7 @@
  #### &nbsp;&#9749; Latest Blogs posts
   
 <!-- BLOG-POST-LIST:START -->
-- [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
+- **[Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)**
 <!-- BLOG-POST-LIST:END -->
 <img align= "right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="290"/><br/>
  

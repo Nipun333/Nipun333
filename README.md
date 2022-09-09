@@ -11,7 +11,7 @@
 <h4 align="center">A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology.</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)  
-&nbsp; 
+&nbsp; <br/>
 
 - 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
 
@@ -52,7 +52,7 @@
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">
-&nbsp;&nbsp; <img width="420" height="230em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
+&nbsp;&nbsp; <img width="410" height="230em" src="https://raw.githubusercontent.com/nipun333/Cf_stats/main/output/light_card.svg" /> &nbsp;&nbsp;
 <img width="392" height="230em" src="https://leetcard.jacoblin.cool/nipun333?theme=wtf&font=Pavanam&ext=contest" />
 </p><br/>
 

@@ -13,7 +13,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)  
 &nbsp; 
 
-- 🌍 I'm mostly active within the **Developers Community**
+- 🎓 Currently studying Computer Science & Engineering (CSE) at [American International University Bangladesh](https://www.aiub.edu/)
+
+- 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  
 - 🔥 Interested in **Software Developement** and **Web development**
 

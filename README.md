@@ -77,8 +77,7 @@
  `README.md` (this file) appears on my GitHub profile.
 -->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
- 
- ><b>Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
- >
- >Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.
- 
+
+><b>Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
+>
+>Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022.

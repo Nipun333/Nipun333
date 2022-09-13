@@ -33,7 +33,7 @@
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
  <br/><br/>
 
-<h4 align="left"> &nbsp; ⚙️Languages and Tools: <img alt="Coder gif" align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </h4> <br/> 
+<h4 align="left"> &nbsp; ⚙️Languages and Tools: <img align="right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </h4> <br/> 
 
 <p align="left"> &nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </a> &nbsp;  
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> &nbsp;
@@ -49,7 +49,7 @@
   <p float="left"> 
   &nbsp; <img width="475" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img width="337" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
-  <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">

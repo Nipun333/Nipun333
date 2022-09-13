@@ -11,7 +11,7 @@
 <h4 align="center">A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology.<br/><br/>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy)  </h4>
-&nbsp; <br/>
+ <br/>
 
 - 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
 
@@ -69,13 +69,13 @@
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://github.com/Nipun333/Nipun333/blob/main/assets/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
- <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a>
- <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> &nbsp;
- 
-</p>
+ <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> </p>
+  
 <!--
  `README.md` (this file) appears on my GitHub profile.
 -->
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ><b>Copyright ©2021-2022, `Nipun333`. All Rights Reserved.

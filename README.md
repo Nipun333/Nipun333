@@ -62,8 +62,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->
-<p>
-<img align= "right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="290"/> </p> <br/>
+<p><br/>
+<img align= "right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="290"/> </p> 
  
 #### &nbsp; 🚀 Connect With Me:
   

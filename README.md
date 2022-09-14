@@ -9,7 +9,7 @@
    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=4CAF50&logo=github">
   </a> </p>
   
-<h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/>
+<h3 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy) </h4>
  <br/>

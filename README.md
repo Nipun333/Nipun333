@@ -63,16 +63,17 @@
 - [Switch Case vs. If Else: An Interesting Fact 😱](https://dev.to/nipun333/switch-case-vs-if-else-an-interesting-fact-1pmc)
 <!-- BLOG-POST-LIST:END -->
 <p><br/>
-<img align= "right" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="290"/> </p> 
+ 
  
 #### &nbsp; 🚀 Connect With Me:
   
 <p float="left"> &nbsp;&nbsp;
- <a href="https://linkedin.com/in/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
- <a href="https://fb.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
- <a href="https://dev.to/nipun333" target="blank"><img align="center" src="https://github.com/Nipun333/Nipun333/blob/main/assets/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
- <a href="https://www.leetcode.com/nipun333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
- <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> </p>
+ <a href="https://linkedin.com/in/nipun333" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://fb.com/nipun333" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://dev.to/nipun333" target="blank"><img align="top" src="https://github.com/Nipun333/Nipun333/blob/main/assets/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://www.leetcode.com/nipun333" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
+ <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40" /></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="290"/> </p>
   
 <!--
  `README.md` (this file) appears on my GitHub profile.

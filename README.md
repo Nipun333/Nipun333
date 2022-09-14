@@ -9,7 +9,7 @@
    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=4CAF50&logo=github">
   </a> </p>
   
-<h3 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/>
+<h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy) </h4>
  <br/>
@@ -47,8 +47,8 @@
  <br/> <br/> <br/><br/> <br/>
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
-  &nbsp; <img width="475" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
-  <img width="337" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
+  &nbsp; <img width="472" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
+  <img width="340" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming

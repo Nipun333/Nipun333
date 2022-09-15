@@ -65,7 +65,7 @@
 <p><br/>
  
  
-#### &nbsp; 🚀 Connect With Me: <br/><br/>
+#### &nbsp; 🚀 Connect With Me: 
 
 <p float="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="down" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;

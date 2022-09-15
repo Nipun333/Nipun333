@@ -9,10 +9,9 @@
    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=4CAF50&logo=github">
   </a> </p>
   
-<h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/>
+<h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology. <br/><br/><br/>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy) </h4>
- <br/>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf)](https://github.com/ryo-ma/github-profile-trophy) </h4> <br>
 
 - 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
 
@@ -42,9 +41,9 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> &nbsp; 
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img align="Top" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> &nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </p> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </p> 
+<br/> <br/> 
 
- <br/> <br/> 
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   &nbsp; <img width="473" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;

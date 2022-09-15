@@ -65,9 +65,9 @@
 <p><br/>
  
  
-#### &nbsp; 🚀 Connect With Me:
+#### &nbsp; 🚀 Connect With Me: <br/><br/>
 
-<p float="left"> &nbsp;&nbsp;
+<p float="left"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://linkedin.com/in/nipun333" target="blank"><img align="down" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://fb.com/nipun333" target="blank"><img align="down" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;
  <a href="https://dev.to/nipun333" target="blank"><img align="down" src="https://github.com/Nipun333/Nipun333/blob/main/assets/devto.svg" alt="nipun333" height="30" width="40" /></a> &nbsp;

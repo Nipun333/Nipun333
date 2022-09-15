@@ -30,7 +30,7 @@
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
 - 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
- <br/><br/>
+ <br/><br/><br>
  
 <h4 align="left"> &nbsp; ⚙️Languages and Tools: </h4> <br/>
 
@@ -42,7 +42,7 @@
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img align="Top" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="350" height="188" /> </p> 
-<br/> <br/> 
+<br/> 
 
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
@@ -79,7 +79,7 @@
  `README.md` (this file) appears on my GitHub profile.
 -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     
    >&nbsp;&nbsp;&nbsp; <b>Copyright ©2021-2022, `Nipun333`. All Rights Reserved.
    >

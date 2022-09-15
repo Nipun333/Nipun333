@@ -44,7 +44,7 @@
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="358" height="188" /> </p> 
 
- <br/> <br/> <br/><br/> <br/>
+ <br/> <br/> 
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   &nbsp; <img width="473" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;

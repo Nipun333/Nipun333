@@ -41,14 +41,14 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/> </a> &nbsp; 
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img align="Top" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="30"/> </a> &nbsp;
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="30"/> </a> &nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="340" height="188" /> <br/><br/><br/> </p> 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="Top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Nipun333/Nipun333/blob/main/assets/coder.gif?raw=true&hide_border=true" width="340" height="188" /> <br/><br/> </p> 
  
 
  #### &nbsp; ⚡ Github Stats:
   <p float="left"> 
   &nbsp; <img width="472" height="196em" src="https://github-readme-stats.vercel.app/api?username=nipun333&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&custom_title=Nipun's%20GitHub%20Stats" /> &nbsp;&nbsp;
   <img width="336" height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipun333&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
-  <p align="center"> <img width="465" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
+  <p align="center"> <img width="462" src="https://github-readme-streak-stats.herokuapp.com/?user=nipun333&hide_border=true&theme=default" alt="nipun333" /></p> <br/>
  
 #### &nbsp; &#128200; Competitive Programming
 <p float="left">

@@ -19,7 +19,7 @@
  
 - 🔥 Interested in **Software Developement** and **Web development**
 
-- 🌱 Currently learning **Python, Flutter, Competitive Programming, Software development**
+- 🌱 Currently learning **Python, Javascript, Competitive Programming, Software development**
 
 - 👯 Looking to collaborate on `Computer Science & Engineering research` , `Software Engineering project`
 

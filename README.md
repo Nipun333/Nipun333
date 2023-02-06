@@ -23,7 +23,7 @@
 
 - 👯 Looking to collaborate on `Computer Science & Engineering research` , `Software Engineering project`
 
-- 📝 Write articles regularly on [www.dev.to/nipun333](www.dev.to/nipun333)
+- 📝 Write articles on [www.dev.to/nipun333](www.dev.to/nipun333)
 
 - 💬 Ping me about **Algorithm, Data Structure, Object Oriented Programming, Object Oriented Analysis & Design, Computation**
 

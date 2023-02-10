@@ -25,7 +25,7 @@
 
 - 📝 Write articles on [www.dev.to/nipun333](www.dev.to/nipun333)
 
-- 💬 Ping me about **Algorithm, Data Structure, Object Oriented Programming, Object Oriented Analysis & Design, Theory of Computation**
+- 💬 Ping me about **Algorithm, Data Structure, Object Oriented Programming, Object Oriented Analysis & Design, Full Stack Development & Theory of Computation**
 
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 

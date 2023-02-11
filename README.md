@@ -79,7 +79,7 @@
  `README.md` (this file) appears on my GitHub profile.
 -->
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <img height="48" width="100%" alt="Thanks for visiting" src="thanks.svg" />
 <br><br><br><br><br><br>
     

@@ -79,7 +79,9 @@
  `README.md` (this file) appears on my GitHub profile.
 -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+<img height="55" alt="Thanks for visiting me" width="300%" src="thanks.svg" />
+<br/><br/><br/><br/><br/>
     
    >&nbsp;&nbsp;&nbsp; <b>Copyright ©2022-2023, `Nipun333`. All Rights Reserved.
    >

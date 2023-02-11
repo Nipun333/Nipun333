@@ -80,7 +80,7 @@
 -->
 
 <br/><br/><br/><br/><br/><br/><br/>
-<img height="50" alt="Thanks for visiting me" src="thanks.svg" />
+<img height="48" alt="Thanks for visiting me" src="thanks.svg" />
 <br/><br/><br/><br/><br/>
     
    >&nbsp;&nbsp;&nbsp; <b>Copyright ©2022-2023, `Nipun333`. All Rights Reserved.

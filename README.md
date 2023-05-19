@@ -82,8 +82,9 @@
 <br/><br/><br/><br/><br/><br/>
 <img height="48" width="100%" alt="Thanks for visiting" src="thanks.svg" />
 <br><br><br><br><br><br>
-    
+
    >&nbsp;&nbsp;&nbsp; <b>Copyright ©2022-2023, `Nipun333`. All Rights Reserved.
    >
    >&nbsp;&nbsp;&nbsp; Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022. 
   <br/>
+

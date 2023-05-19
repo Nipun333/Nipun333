@@ -11,7 +11,7 @@
   
 <h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology :octocat:<br/> <br><br>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf&row=1)](https://github.com/ryo-ma/github-profile-trophy) <br><br></h4> 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=10&&center=true&theme=wtf&column=7)](https://github.com/ryo-ma/github-profile-trophy) <br><br></h4> 
 
 - 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
 

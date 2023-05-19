@@ -9,7 +9,7 @@
    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nipun333?color=4CAF50&logo=github">
   </a><br> </p>
   
-<h4 align="center"> A great enthusiast in learning new stuffs and making something new, innovative and extraordinary in technology :octocat:<br/> <br><br>
+<h4 align="center"> A great enthusiast in learning new stuffs and making something novel, innovative and extraordinary in technology :octocat:<br/> <br><br>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=5center=true&theme=wtf&column=7)](https://github.com/ryo-ma/github-profile-trophy) <br><br></h4> 
 
@@ -17,9 +17,9 @@
 
 - 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  
-- 🔥 Interested in **Software Developement** and **Web development**
+- 🔥 Interested in **Software Developement** and **Full stack web development**
 
-- 🌱 Currently learning **PHP, .Net, Javascript, Competitive Programming, Software development**
+- 🌱 Currently learning **Node.js, .Net, Javascript, Competitive Programming, web application development**
 
 - 👯 Looking to collaborate on `Computer Science & Engineering research` , `Software Engineering project`
 

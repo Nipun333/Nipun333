@@ -13,13 +13,13 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=5center=true&theme=wtf&column=7)](https://github.com/ryo-ma/github-profile-trophy) <br><br></h4> 
 
-- 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
+- 🎓 Graduated `Computer Science & Engineering (CSE)` from **[American International University Bangladesh](https://www.aiub.edu/)**
 
 - 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  
 - 🔥 Interested in **Software Developement** and **Full stack web development**
 
-- 🌱 Currently learning **Node.js, .Net, Javascript, Competitive Programming, web application development**
+- 🌱 Currently learning **Node.js, React, Javascript, Typescript, Tailwind CSS, Competitive Programming, Web application development**
 
 - 👯 Looking to collaborate on `Computer Science & Engineering research` , `Software Engineering project`
 
@@ -29,7 +29,7 @@
 
 - 📫 Reach me: [facebook.com/nipun333](https://facebook.com/nipun333)
 
-- 😃 Fun fact: *Family oriented, Fitness freak and Travel lover.*
+- 😃 Fun fact: *Family oriented, fitness freak and travel lover.*
  <br/><br/><br>
  
 <h4 align="left"> &nbsp; ⚙️Languages and Tools: </h4> <br/>

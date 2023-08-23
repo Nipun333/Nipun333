@@ -13,7 +13,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=nipun333&margin-w=5center=true&theme=wtf&column=7)](https://github.com/ryo-ma/github-profile-trophy) <br><br></h4> 
 
-- 🎓 Currently Studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
+- 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
 
 - 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  

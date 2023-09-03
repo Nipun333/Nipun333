@@ -19,7 +19,7 @@
 
 - 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  
-- 🔥 Interested in **Software Developement** and **Full stack web development**
+- 🔥 Interested in **Software developement** and **Full stack web development**
 
 - 🌱 Currently learning **Node.js, React, Javascript, Typescript, Tailwind CSS, Competitive Programming, Web application development**
 

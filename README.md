@@ -17,7 +17,7 @@
 
 </h4> 
 
-- 🎓 Currently studying `Computer Science & Engineering (CSE)` at **[American International University Bangladesh](https://www.aiub.edu/)**
+- 🎓 Currently studying `Master of ICT(research)` at **[Melbourne Institute of Technology](https://www.mit.edu.au)**
 
 - 🌍 I'm mostly active within the **Developers Community** & **Competitive Programming Community** 
  

@@ -78,7 +78,7 @@
   bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="285" />  </p>
 
 
-[![Nipun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nipun333)](https://github.com/nipun333/github-readme-activity-graph)
+[![Nipun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nipun333&theme=merko)](https://github.com/nipun333/github-readme-activity-graph)
   
 <!--
  `README.md` (this file) appears on my GitHub profile.

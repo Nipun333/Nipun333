@@ -74,10 +74,11 @@
  <a href="https://fb.com/nipun333" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipun333" height="30" width="40" /> </a> &nbsp;
  <a href="https://dev.to/nipun333" target="blank"><img align="top" src="https://github.com/Nipun333/Nipun333/blob/main/assets/devto.svg" alt="nipun333" height="30" width="40" /> </a> &nbsp;
  <a href="https://www.leetcode.com/nipun333" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nipun333" height="30" width="40" /> </a> &nbsp;
- <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40"/> </a> <br> <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="bottom" src="assets/developing.gif" height="303" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="285" />  </p>
+ <a href="https://codeforces.com/profile/the_immaculate" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_immaculate" height="30" width="40"/> </a> <br> <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="bottom" src="assets/developing.gif" height="303" width="45%"/>&nbsp;&n
+  bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="top" src="https://github.com/Nipun333/Nipun333/blob/main/assets/received_337927931003775.gif?raw=true&hide_border=true" width="280" height="285" />  </p>
 
 
-
+[![Nipun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nipun333)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <!--
  `README.md` (this file) appears on my GitHub profile.

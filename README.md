@@ -89,6 +89,6 @@
 
    >&nbsp;&nbsp;&nbsp; <b>Copyright ©2023-2024, `Nipun333`. All Rights Reserved.
    >
-   >&nbsp;&nbsp;&nbsp; Endorsed by Sadman Salim Nipun, <sadmannipun@gmail.com>, September 2022. 
+   >&nbsp;&nbsp;&nbsp; Endorsed by Sadman Salim Nipun, September 2022. 
   <br/>
 

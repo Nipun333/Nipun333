@@ -13,7 +13,7 @@
   
 <h4 align="center"> A great enthusiast on learning novel, innovative stuffs, follow best practices and seek out new technologies & ideas to add value to the project :octocat:<br/> <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nipun333)](https://github.com/ryo-ma/github-profile-trophy) <br><br>
+[![trophy](https://github-profile-trophy-ruddy.vercel.app/?username=Nipun333&theme=dark)](https://github-profile-trophy-ruddy.vercel.app/?username=Nipun333) <br><br>
 
 </h4> 
 
